@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/NovaZaltctrl/ZandraKhrisCashCounter/main/CashCounter'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GhoulScript/ZandraKhris/main/Open-Source.lua", true))()
